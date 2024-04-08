@@ -128,18 +128,16 @@ def surfacearea(request):
 
     urls.py
  ```
-    from django.contrib import admin
+from django.contrib import admin
 from django.urls import path
 from mathapp import views
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('areaofsurface/',views.surfacearea,name="areaofsurface"),
     path('',views.surfacearea,name="areaofsurfaceroot")
-]
-```
+]```
 
 ## SERVER SIDE PROCESSING:
-
 ![alt text](<Screenshot 2024-04-08 085541.png>)
 ## HOMEPAGE:
 ![alt text](<Screenshot 2024-04-08 085503.png>)
