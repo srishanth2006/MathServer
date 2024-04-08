@@ -94,7 +94,7 @@ h1 {
 </body>
 </html>
 ## SERVER SIDE PROCESSING:
-
+![alt text](<Screenshot 2024-04-08 084006.png>)
 
 ## HOMEPAGE:
 ![alt text](<Screenshot 2024-04-06 152433.png>)
