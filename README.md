@@ -30,7 +30,7 @@ Create a HTML file to implement form based input and output.
 Publish the website in the given URL.
 
 ## PROGRAM :
-
+```
 
 
 <!DOCTYPE html>
@@ -93,6 +93,7 @@ h1 {
 </div>
 </body>
 </html>
+```
 ## SERVER SIDE PROCESSING:
 ![alt text](<Screenshot 2024-04-08 084006.png>)
 
